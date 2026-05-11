@@ -186,5 +186,5 @@ export const services = [
 
 export const socials = [
   { name: "YouTube", href: "https://youtube.com/@trysomething-c5?si=HS0kGmFXsDKHJZ2J" },
-  { name: "Instagram", href: "https://instagram.com" },
+  { name: "Instagram", href: "https://www.instagram.com/try_something_official?igsh=NThjNDg4eDJ3NzFm&utm_source=qr" },
 ];
